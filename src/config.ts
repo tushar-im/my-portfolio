@@ -129,7 +129,7 @@ export const siteConfig = {
     { label: 'Decisions', href: '/decisions' },
     { label: 'Journey', href: '/journey' },
     { label: 'Writing', href: '/writing' },
-    { label: 'Speaking', href: '/speaking' },
+    // { label: 'Speaking', href: '/speaking' }, // TODO: Uncomment when speaking engagements are added
     { label: 'Uses', href: '/uses' },
     { label: 'Contact', href: '/contact' },
   ],
